@@ -1,0 +1,31 @@
+Ref,Part,Qty
+C1,100nF 0402 Capacitor,1
+R1,2k 0402 Resistor,1
+R3,5.1k 0402 Resistor,1
+R4,5.1k 0402 Resistor,1
+R5,100R 0402 Resistor,1
+R6,4.7k 0402 Resistor,1
+R7,4.7k 0402 Resistor,1
+R8,10k 0402 Resistor,1
+R9,10k 0402 Resistor,1
+R10,10k 0402 Resistor,1
+R11,10k 0402 Resistor,1
+R12,10k 0402 Resistor,1
+U5,AP2112K-3.3 LDO,1
+U7,MCP73831T-2ATI/OT LiPo Charger,1
+D1,TSAL6400 IR LED,1
+D3,TSAL6400 IR LED,1
+D4,TSAL6400 IR LED,1
+J1,693072010801 microSD Connector,1
+J2,JST B2B-PH-K-S Battery Connector,1
+J3,HRO TYPE-C-31-M-12 USB-C,1
+J4,SMA Edge Mount Connector,1
+J5,PPPC061LGBN-RC 1x6 Right Angle Female Socket,1
+Q1,BS170 MOSFET TO-92,1
+SW1,6mm Push Button 4.3mm,1
+SW2,6mm Push Button 4.3mm,1
+SW3,SKRHABE010 5-way Joystick,1
+U2,0.96 inch SSD1306 OLED 128x64 I2C,1
+U2 Header,PPTC041LFBN-RC 1x4 Female Header,1
+U3,ESP32-C5-WROOM-1U-N8R8,1
+U6,TSOP38238 IR Receiver,1
