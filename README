@@ -1,0 +1,5 @@
+This is the MOCKA sv1d.
+its a small esp32-c5 powerd device with an external antenna. it was inspired by the maurader mini by JustCallMeKoKo.
+it has IR, dualband wifi and bluetooth.
+it has an external SMA connector for an external antenna
+it currently has no firmware for it
